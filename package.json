@@ -1,0 +1,29 @@
+{
+  "name": "vue-web3.js",
+  "version": "0.0.1",
+  "description": "Inject web3 instance to Vue.js context",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/exiotech/vue-web3.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "web3",
+    "web3js",
+    "ethereum"
+  ],
+  "author": "Andranik Hovesyan <andranik@hovesyan.pro>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exiotech/vue-web3/issues"
+  },
+  "homepage": "https://github.com/exiotech/vue-web3#readme",
+  "dependencies": {
+    "web3": "1.0.0-beta.37"
+  }
+}
