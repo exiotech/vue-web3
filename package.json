@@ -1,6 +1,6 @@
 {
   "name": "vue-web3.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Inject web3 instance to Vue.js context",
   "main": "index.js",
   "scripts": {
